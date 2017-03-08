@@ -1,10 +1,11 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="ProjectRootManager" version="2" default="true" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
       </component>
+      <component name="ProjectRootManager" version="2" default="true" />
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -92,37 +93,6 @@
           <listeners />
           <method />
         </configuration>
-      </component>
-      <component name="SbtLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/development/SparkJobs-fixedpoint/source/rfshaping/Bdq" value="1481723586238" />
-            <entry key="$USER_HOME$/development/SparkJobs-inque/source/rfshaping/Bdq" value="1487930692942" />
-            <entry key="$USER_HOME$/development/SparkJobs-m/source/rfshaping/Bdq" value="1481562504101" />
-            <entry key="$USER_HOME$/development/SparkJobs-test/source/rfshaping/Bdq" value="1484320723945" />
-            <entry key="$USER_HOME$/development/algorithm.capacity" value="1480426377106" />
-            <entry key="$USER_HOME$/development/vindinium-starter-scala" value="1482167372077" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
