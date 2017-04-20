@@ -1,6 +1,7 @@
 <code_scheme name="Default (1)">
   <ScalaCodeStyleSettings>
     <option name="ALIGN_TUPLE_ELEMENTS" value="true" />
+    <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
     <option name="CALL_PARAMETERS_NEW_LINE_AFTER_LPAREN" value="2" />
   </ScalaCodeStyleSettings>
