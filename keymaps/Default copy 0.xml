@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="Macro.&lt;noname&gt;">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>
